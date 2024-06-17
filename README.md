@@ -21,18 +21,18 @@ TODO-LIST-MERN is a full-stack web application built with the MERN stack (MongoD
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/fouzianazneen/TODO-LIST-MERN.git
    cd TODO-LIST-MERN
 
  2. Install dependencies:
-
+```
    npm install 
-
+```
 3. Start the development server:
-
+```
     npm start
-
+```
 
 4.Open http://localhost:3000 in your web browser to use the application.
 
